@@ -43,15 +43,15 @@ a
     }
     h3
     {
-        font-size: large;
+        font-size: medium;
     }
     h4
     {
-        font-size: medium;
+        font-size: small;
     }
     h5
     {
-        font-size: small;
+        font-size: x-small;
     }
     .session-2
     {
