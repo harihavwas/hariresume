@@ -27,11 +27,7 @@ a
 
 @media(max-width:576px)
 {
-    .pho-name img
-    {
-        width: 50%;
-        height: 50%;
-    }
+   
     .pho-name h1
     {
         font-size: 100%;
